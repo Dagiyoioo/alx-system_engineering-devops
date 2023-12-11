@@ -1,1 +1,2 @@
-e "bin" /etc/passwwd | wc -l
+#!/bin/bash
+ "bin" /etc/passwwd | wc -l
